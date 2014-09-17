@@ -5,10 +5,10 @@ used assembly but wanted to play around with it some.
 Everything seems to work under OS X Lion.
 
 To assemble the 64 bit version you'll need to build your own nasm (use
-homebrew).
+macports or homebrew).
 
 ## Thanks
-These, among other sources, where helpful:
+These, among other sources, were helpful:
 
 * http://thexploit.com/secdev/mac-os-x-64-bit-assembly-system-calls/
 * http://www.x86-64.org/documentation/abi.pdf
